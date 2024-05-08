@@ -1,5 +1,5 @@
 # Cognifyz_Internship
-Full-Stack Internship Tasks
+#Full-Stack Internship Tasks
 These are the 7 tasks that were performed and contributed to during the full-stack internship:
 
 Task 1: HTML Forms and Node.js Server Setup
